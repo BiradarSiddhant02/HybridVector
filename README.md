@@ -40,7 +40,7 @@ The implementation leverages:
 
 The benchmark demonstrates significant performance improvements with the hybrid quantization approach:
 
-![Speedup Analysis](speedup_analsys.png)
+![Speedup Analysis](speedup_analysis.png)
 
 Results show:
 - **Vector size**: 4,096 dimensions
