@@ -1,0 +1,8 @@
+metric,value
+avg_speedup,1.38785
+min_speedup,1.36862
+max_speedup,1.40343
+avg_error,8.50657e-06
+min_error,8.50657e-06
+max_error,8.50657e-06
+num_runs,500
